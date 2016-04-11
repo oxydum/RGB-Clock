@@ -14,8 +14,8 @@
 #include <Adafruit_NeoPixel.h>
 
 
-char ssid[] = "SmartLive";  //  your network SSID (name)
-char pass[] = "";           // your network password
+char ssid[] = "your ssid wifi";  //  your network SSID (name)
+char pass[] = "yourpassword";           // your network password
 int deuxpoints = 1;         // color of two points (Hh it's h, heures)
 
 unsigned int localPort = 2390;      // local port to listen for UDP packets
