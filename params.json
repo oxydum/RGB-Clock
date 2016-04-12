@@ -1,0 +1,6 @@
+{
+  "name": "Rgb-clock",
+  "tagline": "ESP8266 NTP RGB Clock",
+  "body": "### Welcome to RGB-Clock.\r\nThis is a beautiful RGB Clock made with only two low cost components\r\n\r\n### You need a Nodemcu Esp8266 board.\r\n\r\n### You need a Neopixel strip\r\n![Neopixel Strip](https://github.com/oxydum/RGB-Clock/blob/master/images/neopixelstrip.jpg \"Neopixel Strip\")\r\n\r\n### Authors and Contributors\r\n- Jean-Bernard François (@oxydum).\r\n\r\n### Support or Contact\r\nHaving trouble with Pages? Check out our [documentation](https://help.github.com/pages) or [contact support](https://github.com/contact) and we’ll help you sort it out.\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
